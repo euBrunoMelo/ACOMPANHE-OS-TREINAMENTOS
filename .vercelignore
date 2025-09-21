@@ -1,0 +1,16 @@
+# Arquivos desnecessários para o deploy
+mot4.py
+results.csv
+jornada_dos_dados.txt
+README.md
+training_analysis.html
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.env
+.env.local
+.env.production.local
+.env.development.local

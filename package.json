@@ -1,0 +1,17 @@
+{
+  "name": "visdrone-training-analysis",
+  "version": "1.0.0",
+  "description": "Análise interativa dos dados de treinamento VisDrone YOLO",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Static site - no start needed'"
+  },
+  "keywords": ["yolo", "visdrone", "machine-learning", "data-analysis"],
+  "author": "Bruno",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
