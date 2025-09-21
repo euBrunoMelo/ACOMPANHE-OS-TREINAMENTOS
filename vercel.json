@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "name": "visdrone-training-analysis"
+  "name": "visdrone-training-analysis",
+  "buildCommand": "",
+  "outputDirectory": "public",
+  "installCommand": ""
 }

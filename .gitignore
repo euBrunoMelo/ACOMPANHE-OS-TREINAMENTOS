@@ -1,0 +1,23 @@
+# Arquivos desnecessários para o GitHub/Vercel
+mot4.py
+results.csv
+jornada_dos_dados.txt
+training_analysis.html
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.env
+.env.local
+.env.production.local
+.env.development.local
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Manter a pasta public no Git (contém o index.html)
+!public/
+!public/index.html
